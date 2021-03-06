@@ -1,54 +1,15 @@
-# CheaterDeleter
-
-## Pre-Alpha Quality Note
-
-**This is currently pre-alpha quality. Expect problems.**
-
-## Currently Detected Hacks
-
-* Timer/Extra Movement Packets
-* Timer While on Entity
-* Glide
-* Fly
-* VClip
-* HClip
-* Phase
-* Step (Even "legit" In Some Clients)
-* Packet Limiter Stops Some Lag Exploits
-* No Fall
-* Speed (Mostly)
-* Teleport Finder
-* XCary and Inventory Move
-* Poorly Written Inventory Item Movement Cheats (AutoTotem, AutoMlg if bucket not in hotbar)
-* Poorly Written Water Walk Cheats
-* Vehicle High Jump
-* Boat Fly
-* Elytra Fly Height
-
-## Supported Mods
-
-* Step Height Entity Attribute Library [https://github.com/emilyalexandra/step-height-entity-attribute](https://github.com/emilyalexandra/step-height-entity-attribute)
-* :key: fabric-permissions-api [https://github.com/lucko/fabric-permissions-api](https://github.com/lucko/fabric-permissions-api)
-    * LuckPerms [https://github.com/lucko/LuckPerms](https://github.com/lucko/LuckPerms)
-
-## Permissions
-
-**Requires LuckPerms or Another fabric-permissions-api Compatable Permissions Mod**
-
-`cheaterdeleter.bypassanticheat` - Allows a player to bypass this Anti-Cheat
-
-`cheaterdeleter.sendmajorflags` - Send major flags from all players to this player in chat
-
-`cheaterdeleter.sendminorflags` - Send minor flags from all players to this player in chat
-
-## Discord
-
-[https://discord.gg/JSZNtzRGjx](https://discord.gg/JSZNtzRGjx)
-
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# Buy me covfefe ❤️
+```
+BTC     bc1qjqzkrfupcrgtzpeu0pmut24vq8tfzs9rqe6458
+ETH     0x799b3b5520525CDd95d1D5C7Ba1a2Ee6037B1bFE
+ADA     addr1q8mz3z7cw4jz9dacvpz6dpw2c6xke6nv8vk6rfnt7mkaat8vgnu796g5vrarn4pjgpdqkare9zryx645e25wcae8636q97typg
+XRP     r3Bpcyp8zVNkaDzpppdRTuSXSvxAUJXAVj
+LTC     ltc1qpja2nr6x9nz3q3ya3ec6ec5hxvm8dz52urn39z
+BCH     1NAteBJF7wKw8BdzLJ6YE65ja1ZAHf68jf
+DOGE    DL4VNBx6EGuPcgnJrfgxok9tTvcbVGKx3R
+XMR     89S6qYdMJyZZ8ddKtFqTzGhuDZxJkNcmL9L6KzTSw7AeQos1uku2GBhBaHLUYtgv4TQRRQuNF4FixAu6geKC2r25NyWZj2Q
+DASH    XtffD9gZFDKWWpabMyAi8sF9EeDREH5dUy
+DCR     DsSAqeDekTCvbd84GkAofHyutrFrFDX1EnD
+ZEC     t1P336iRRMM6Yu2wTzXJmjm6p4RgNAQkgsM
+STRAX   SVfFcCZtQ8yMSMxc2K8xzFr4psHpGpnKNT 
+```
